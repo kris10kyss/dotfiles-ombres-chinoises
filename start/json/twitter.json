@@ -1,0 +1,25 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 810,
+       "width": 765,
+       "x": 417,
+       "y": 45
+    },
+    "marks": [],
+    "name": "Twitter. It’s what’s happening / Twitter",
+    "percent": 1,
+    "swallows": [
+       {
+       // "class": "^webapp\\-nativefier\\-4fd9c9$",
+       // "instance": "^webapp\\-nativefier\\-4fd9c9$",
+       // "machine": "^in$",
+       // "title": "^Twitter\\.\\ It\\’s\\ what\\’s\\ happening\\ \\/\\ Twitter$",
+       // "window_role": "^browser\\-window$"
+       }
+    ],
+    "type": "con"
+}
